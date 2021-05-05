@@ -18,10 +18,26 @@
         {
           "name": "DefyCoin",
           "symbol": "DEFY",
-          "address": "0xdBE4CC36D0C19858d8cc7c5030593E9922aC680D",
+          "address": "0x0acbb2c3d3826b82b17c09e2dfa605b5279e0c63",
           "chainId": 56,
           "decimals": 18,
           "logoURI": "/images/coins/DEFY.svg"
+        },
+        {
+          "name": "Tako Token",
+          "symbol": "TAKO",
+          "address": "0x2f3391aebe27393aba0a790aa5e1577fea0361c2",
+          "chainId": 56,
+          "decimals": 18,
+          "logoURI": "/images/coins/TAKO.svg"
+        },
+        {
+          "name": "Vox.Finance",
+          "symbol": "VOXb",
+          "address": "0xc227f8eecc481a8e8baa30a4754b109b81c4dfa4",
+          "chainId": 56,
+          "decimals": 18,
+          "logoURI": "/images/coins/VOXb.svg"
         }
     ],
     "version": {
